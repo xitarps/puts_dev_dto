@@ -1,6 +1,6 @@
 # puts_dev_dto
 
-Puts dev, precisando cirar estrutura de dados simples? value object? DTO(data transfer object)?
+Puts dev, precisando criar uma estrutura de dados simples? value object? DTO(data transfer object)?
 Vamos dar uma olhada inicial em algumas opções
 
 
